@@ -1,10 +1,10 @@
 {
-    "name": "hugo-theme-tailwindcss-starter",
-    "version": "0.2.1",
-    "description": "Starter files for a Hugo theme with Tailwindcss",
+    "name": "scientist",
+    "version": "0.0.1",
+    "description": "A Hugo + Tailwind CSS theme for personal webpages.",
     "main": "index.js",
-    "repository": "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter",
-    "author": "dirkolbrich <github@dirkolbrich.de>",
+    "repository": "https://github.com/adityamwagh/scientist",
+    "author": "adityamwagh <adityamwagh@gmail.com>",
     "license": "MIT",
     "scripts": {
         "start": "hugo --gc"
